@@ -1,0 +1,45 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.head_1{
+  font-size: 25px;
+  width: 100%;
+  border: 3px solid lime;
+  border-radius: 15px;
+}
+.div_img{
+  border-radius: 100px;
+  width: 200px;
+}
+.boxes{
+  float: left;
+  margin-left: 100px;
+}
+.text{
+  color: crimson;
+  font-size: 20px;
+}
+.boxes2{
+  float: right;
+  margin-right: 100px;
+}
+.footer{
+  background-color: black;
+  color: cyan;
+  font-size: 20px;
+  position: fixed;
+  bottom: 0;
+}
+#b1{
+  margin-top: 600px;
+  width: 120px;
+  margin-left: 180px;
+  margin-bottom: 200px;
+}
+#b2{
+  margin-top: 600px;
+  width: 120px;
+  margin-left: 100px;
+  margin-bottom: 200px;
+}
